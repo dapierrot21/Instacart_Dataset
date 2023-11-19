@@ -1,3 +1,32 @@
-# Instacart_Dataset
+# Instacart Data Cleaning and Analysis Project
 
-## Instacart is a grocery delivery platform where customers can place a grocery order and have it delivered to them, similar to how Uber Eats and Door Dash work. I've been tasked to clean up the data and prepare a report that gives insight into the shopping habits of Instacart customers.
+## Overview
+
+This project focuses on cleaning and analyzing Instacart customer data to gain insights into their shopping habits. The dataset used in this project includes information about customer orders, products, and aisles.
+
+## Prerequisites
+
+Before running the project, ensure you have the following dependencies installed:
+
+- Python 3.x
+- Jupyter Notebook
+
+## Installation
+
+```bash
+git clone https://github.com/dapierrot21/Instacart_Dataset.git)https://github.com/dapierrot21/Instacart_Dataset.git
+cd Instacart_Dataset
+pip install -r requirements.txt
+```
+
+Navigate to the instacart_analysis.ipynb file and open it. Execute the notebook cells sequentially to reproduce the data cleaning and analysis process.
+
+## File Structure
+- instacart_analysis.ipynb: Jupyter Notebook containing the data cleaning and analysis code.
+- data/: Folder containing the raw Instacart dataset.
+- README.md: Project documentation.
+
+
+## Contributors
+Dean Pierrot
+
