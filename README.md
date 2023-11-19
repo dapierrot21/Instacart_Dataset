@@ -14,7 +14,7 @@ Before running the project, ensure you have the following dependencies installed
 ## Installation
 
 ```bash
-git clone https://github.com/dapierrot21/Instacart_Dataset.git)https://github.com/dapierrot21/Instacart_Dataset.git
+git clone https://github.com/dapierrot21/Instacart_Dataset.git
 cd Instacart_Dataset
 pip install -r requirements.txt
 ```
